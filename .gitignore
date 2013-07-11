@@ -12,4 +12,20 @@
 
 # Ignore all logfiles and tempfiles.
 /log/*.log
+
 /tmp
+*.rbc
+*.sassc
+.sass-cache
+capybara-*.html
+.rspec
+.rvmrc
+/vendor/bundle
+/tmp/*
+/public/system/*
+/coverage/
+/spec/tmp/*
+**.orig
+rerun.txt
+pickle-email-*.html
+.project
